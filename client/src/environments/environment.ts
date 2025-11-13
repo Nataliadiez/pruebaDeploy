@@ -1,3 +1,3 @@
 export const environment = {
-  apiUrl: 'https://pruebadeploy-wqyj.onrender.com',
+  apiUrl: 'http://localhost:3000',
 };
